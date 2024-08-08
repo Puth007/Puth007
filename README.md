@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puth007
 - 👀 I’m interested in badminton
 - 🌱 I’m currently learning highschool
-- 😄 Pronouns: Ningxia
+- 😄 Pronouns: crazy
 
 <!---
 Puth007/Puth007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
